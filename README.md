@@ -1,7 +1,9 @@
-# README: Civic Sign Anagram Project
+# We are Closed Until Further Notice
+
+![IMG_66FBF6EF-DC37-461F-BCA0-721203DFA9E1](https://github.com/user-attachments/assets/6baac54e-e555-4353-9437-9cbeea00b2db)
 
 ## Overview
-This project aims to revitalize a long-abandoned civic sign using exact anagrams of a fixed phrase: **"WE ARE CLOSED UNTIL FURTHER NOTICE STAY HEALTHY"**. The goal is to generate grammatically valid and emotionally resonant alternatives using only the original letters, then curate the most meaningful messages to display in a public space.
+This project aims to revitalize a long-abandoned movie theatre marquee using exact anagrams of the fixed phrase: **"WE ARE CLOSED UNTIL FURTHER NOTICE STAY HEALTHY"**. The goal is to generate grammatically valid and emotionally resonant alternatives using only the original letters, then curate the most meaningful messages to display in a public space.
 
 The process balances automation (for anagram generation and validation) with human-AI collaboration (for meaning-making and curation).
 
