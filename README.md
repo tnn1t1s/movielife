@@ -1,4 +1,4 @@
-# We are Closed Until Further Notice
+# We Are Closed Until Further Notice
 
 ![IMG_66FBF6EF-DC37-461F-BCA0-721203DFA9E1](https://github.com/user-attachments/assets/6baac54e-e555-4353-9437-9cbeea00b2db)
 
