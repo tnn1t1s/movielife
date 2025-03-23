@@ -1,9 +1,3 @@
-# Cracking the Civic Anagram
-
-*What happens when you try to breathe new life into a decaying public sign using nothing but AI, exact letter constraints, and a deep respect for meaning?*
-
-## The Setup
-
 Outside a long-abandoned movie theater in Maplewood sits a dusty civic sign that still reads:
 
 > **WE ARE CLOSED UNTIL FURTHER NOTICE STAY HEALTHY**
